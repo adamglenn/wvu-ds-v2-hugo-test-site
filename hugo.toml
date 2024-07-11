@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'wvu-ds-v2-hugo'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/adamglenn/wvu-ds-v2-hugo-modules-hero'
