@@ -1,0 +1,29 @@
+{
+  "author": "adamglenn",
+  "bugs": {
+   "url": "https://github.com/adamglenn/wvu-ds-v2-hugo-test-site/issues"
+  },
+  "dependencies": {
+    "@meom/navigation": "1.0.5",
+    "parvus": "~2.4.0"
+  },
+  "description": "WVU Design System v2 Base Hugo Test Site",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.12.1",
+    "npm": ">=8.19.2"
+  },
+  "homepage": "https://github.com/adamglenn/wvu-ds-v2-hugo-test-site",
+  "keywords": [
+    "wvu",
+    "hugo"
+  ],
+  "license": "MIT",
+  "name": "gohugo-theme-wvu-ds-v2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamglenn/wvu-ds-v2-hugo-test-site.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+ }
