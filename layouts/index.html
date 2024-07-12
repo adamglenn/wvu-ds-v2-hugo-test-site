@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ with .Params.content_blocks }}
+    {{ range . }}
+      {{ partial "section.html" (dict "componentName" .name "isMain" .is_main "component" .) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
