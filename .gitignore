@@ -4,5 +4,6 @@ public
 resources
 .hugo_build.lock
 .DS_Store
+_vendor
 
 exampleSite/node_modules/
