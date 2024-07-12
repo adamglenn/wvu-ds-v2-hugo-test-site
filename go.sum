@@ -2,6 +2,8 @@ github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711002314-e67aba26b
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711002314-e67aba26bd1c/go.mod h1:hvQXwzVHSv0ypFl0IlyMQoA88AUnOkarlL9quHnA5Xw=
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711003927-8755d57ac567 h1:faLO1xwFfiLLy4IAPMDiMPmsDAg+wqOIcUNzxD0SMIo=
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711003927-8755d57ac567/go.mod h1:hvQXwzVHSv0ypFl0IlyMQoA88AUnOkarlL9quHnA5Xw=
+github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240712084329-a792cd1f6717 h1:97e1EYbMVTE3dtVqdDlgyXAsSrNfsv7NS/I9GKc5nSQ=
+github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240712084329-a792cd1f6717/go.mod h1:hvQXwzVHSv0ypFl0IlyMQoA88AUnOkarlL9quHnA5Xw=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
