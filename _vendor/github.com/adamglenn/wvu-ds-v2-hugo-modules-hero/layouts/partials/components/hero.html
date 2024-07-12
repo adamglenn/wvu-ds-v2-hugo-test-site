@@ -1,7 +1,0 @@
-{{ with .component }}
-  <h2 class="display-3 wvu-shout text-wvu-blue">{{ .heading.text }}</h2>
-  <p class="lead">{{ .body.text }}</p>
-  {{ if .ctas }}
-    {{ range .ctas }}<a class="btn btn-primary mb-1" href="{{ .url }}">{{ .text }}</a> {{ end }}
-  {{ end }}
-{{ end }}
