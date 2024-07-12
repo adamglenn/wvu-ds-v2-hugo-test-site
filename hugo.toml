@@ -6,3 +6,5 @@ theme = 'wvu-ds-v2-hugo'
 [module]
   [[module.imports]]
     path = 'github.com/adamglenn/wvu-ds-v2-hugo-modules-hero'
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"

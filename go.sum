@@ -2,3 +2,10 @@ github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711002314-e67aba26b
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711002314-e67aba26bd1c/go.mod h1:hvQXwzVHSv0ypFl0IlyMQoA88AUnOkarlL9quHnA5Xw=
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711003927-8755d57ac567 h1:faLO1xwFfiLLy4IAPMDiMPmsDAg+wqOIcUNzxD0SMIo=
 github.com/adamglenn/wvu-ds-v2-hugo-modules-hero v0.0.0-20240711003927-8755d57ac567/go.mod h1:hvQXwzVHSv0ypFl0IlyMQoA88AUnOkarlL9quHnA5Xw=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
+github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
